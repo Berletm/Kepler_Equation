@@ -34,4 +34,4 @@ The project features:
     make
 3. Run the program:
     ```bash
-        ./kepler
+    ./kepler
