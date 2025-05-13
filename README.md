@@ -35,3 +35,16 @@ The project features:
 3. Run the program:
     ```bash
     ./kepler
+
+## Visualization 
+
+### Helium comet  
+![Helium comet](https://github.com/user-attachments/assets/8be30ae3-bf3c-4afa-afa5-2eccd581946b)
+
+### Earth-Sun system  
+![Earth-Sun system](https://github.com/user-attachments/assets/682df1e3-f4e6-4fc2-8c66-e58f992ea8bf)
+
+### Binary star system  
+![Binary star system](https://github.com/user-attachments/assets/bb46c031-4a15-4baf-90b9-098665c678cc)
+
+
